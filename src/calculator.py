@@ -19,6 +19,12 @@ def divide(a,b):
     """Divide two numbers"""
     return a/b
 
+def power(a,b):
+    return a**b
+
+def sqrt(a):
+    return a**0.5
+
 # TODO: Students will add multiply, divide, power, sqrt functions
 
 if __name__ == "__main__":
